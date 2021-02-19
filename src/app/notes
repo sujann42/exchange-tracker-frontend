@@ -1,0 +1,7 @@
+create a component
+include that component (app-list-expenses) into the app.component.html
+create a model class and create all required fields
+
+Now import HTTPModule on app.module.ts and import it under imports.
+
+Go to service class and inject HTTPClient
